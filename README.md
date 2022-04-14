@@ -1,2 +1,4 @@
 # nes.xdc
-jsnes emulator as webxdc
+
+wip nes emulator as a webxdc for use with deltachat :)
+You have to provide the rom yourself though
